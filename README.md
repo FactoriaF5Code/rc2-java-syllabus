@@ -19,3 +19,5 @@ public String saludar(String name) {
   return "Hola " + name;
 }
 ```
+
+Es conveniente que a medida que vayáis avanzando, hagáis commits a este repositorio con lo que hayáis aprendido.
